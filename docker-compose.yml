@@ -1,0 +1,26 @@
+version: "2"
+services:
+  front:
+    build: .
+    container_name: load-balancer
+    ports:
+      - "80:3030"
+    command: --backends "https://say.games,https://say.games,https://say.games"
+  us_west1_monitoring:
+    build: .
+    image: netflix-monitor
+    ports:
+      - "8888:8888"
+    command: --location "us-west1"
+  us_west2_monitoring:
+    build: .
+    image: netflix-monitor
+    ports:
+      - "8888:8888"
+    command: --location "us-west2"
+  europe_west2_monitoring:
+    build: .
+    image: netflix-monitor
+    ports:
+      - "8888:8888"
+    command: --location "europe-west2"
