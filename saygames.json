@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "saygames-monitoring",
+  "private_key_id": "359fccbcc9163fca2e0dec2711649e09ad0f4beb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCTurWkKCIEBled\nff3F+0K6F1Larv56Wsj5zjmPmftUhDCjCfEgap5guP45a8yQJKKBqfqbLwgxqC01\nSGzyPVf+Uf2TD0xhMZex7Q35fM35mljFIRA+MhZJBddn1PKJTuZ4bs/1ahO2Fcqv\ngHa/cjtoGcYvX7nHmAcxhYtf05b9T6Y42/k1CQSold3sai8C28ylALMJuOXpAOYm\nMFdjvLahWHGypYeNCixWfwc3K9B0nc1p3g3g2WEbXu7nBn21JtJ/pmwy0/6/Canv\n6tjggP6nziV7lNd88ZVfWOC/K+5nrv88k7mk2Uvwoc4PC5AO3f+innjLhE7tAq/B\nFcXmL2o/AgMBAAECggEAQjFVtDE7VJxW472RWQWFV4ad3Fius7o79Rp/ViXDpJH6\njQMmZMUBJAuf9bCkny2bFwhHvwLq4/0cDJTgJAZyiATK3vrq2V30P4gdS92tGRsc\njW+MLKIatCuG4gJbjkSpJetZCPi3zk2jXNHt40hW8AUkdROqVZF8H6db1Nsk+2jn\nomMNRaL53rY04jo4RrOatfe5LskpYYoA4mSfZe2N4xdDXBFEUtLgyMn5mPwKywJl\nFZs/+yYlww7qP58SsHfLYX/9dXqvmYO47mYRg6PDmnc38MdEoVd88jJYMpWQkTTG\nwcF2EyZVVVuGBftz+BLvNStrjRI9JXt5BVd5eZT88QKBgQDFMmCgwarideKTEKFe\nYRySothXFWj039BaAKpT7IuPtNSxFpO0CprVU26uwmMVSNDxWKqrsDrXUe6L87CZ\nOiTI1G+UYcRjJkXuqjPDpUUjeOyBJUJOWD/YTQbdguPFE3dZcmSUi1+HyVjGQzKR\nlZg3uSSdQKQFZYCH1jS20damhwKBgQC/yBUEqn9PMZM5Ef/6KhYvBNkCBnFCf4o7\nrWDTMKOF9dvgl7SKq8X0i++2EaXRaysx3k2MqOy2Si2xNMKgr4meiE3/fwrEyXE7\nA5uNfPSRb84Mo0F2a7e5qCtNSR3cbkNqw+WM2qsqh64O9TxjBVxZV6xK+Eu7o80b\nkxp3tfRUiQKBgQCHqHF7BeBmLEzzeSRaBhqe8fI8blkm5HW0BPMoCvmzoeYT8YEp\nAYakrOHezZFWSiKbdbDrra+9AvtFQh7COpKlqiccf+mXf/PqDSLRO/gFQCILcjNc\nLC+3wL2xU2MX551aZmy1F/BfPG+a7Q1zw+LUqsR6fcaYg8xZJk5bWp39LwKBgHKo\nnthRTxf73bdLKa1ZKDYoQc3SKDjHo8+WEsNw2vMmULTwPkKB/DH+z+wclPSljAee\njuK/w/YgVz0Q/COxjye2+lr8i2Wnwgi0WXW39UhWfexUVrkEIa3f+zOTuUSmr6vP\nPxh9S8R7pfbPa7EP7WyE3D9eP3kJr4EC69oScOdxAoGBAKy9HU266HuvV4Rp+42+\np5jdwTaaPbYDw3Qztwqp51rCRwQUCz+isTIBWHSmys8+LFLHcXwh5rSX6yCPoiBM\nPkH8ppBORYAAxViplAMbB1PtkLK9kxMgAEQr8UpOriLfwvZ3BEamQ3TTLQIPEuQy\nXZPfhNgjB8Rv29TP84MhbbPl\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-1zt8t@saygames-monitoring.iam.gserviceaccount.com",
+  "client_id": "101200562935624931552",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-1zt8t%40saygames-monitoring.iam.gserviceaccount.com"
+}
